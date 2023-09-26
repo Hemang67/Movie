@@ -1,14 +1,14 @@
-# TMDB Clone
+# TMDB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Using API from [TMDB](https://www.themoviedb.org).<br>
-To see this project in action, go to [Demo TMDB Clone](https://tmdb-clone.firebaseapp.com)
+To see this project in action, go to (https://github.com/Hemang67/Movie.git)
 
 ## Getting Started
 
 - Clone this repo
 
   ```
-  git clone https://github.com/finmavis/tmdb-clone.git
+  git clone https://github.com/Hemang67/Movie.git
   ```
 
 - Navigate to the root folder and install all dependencies
